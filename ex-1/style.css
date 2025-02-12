@@ -6,6 +6,6 @@ input {
 button{
     Width :120px ;
     Height :36px;
-    color: lightgrey;
+    border-color: lightgrey;
     background-color: khaki;
 }
